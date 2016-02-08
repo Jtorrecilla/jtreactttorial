@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Jtorrecilla/jtreactttorial/issues"
   },
-  "homepage": "https://github.com/Jtorrecilla/jtreactttorial#readme"
+  "homepage": "https://github.com/Jtorrecilla/jtreactttorial#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
